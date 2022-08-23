@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harjasae2001/Tic-Tac-Toe/static/css/main.22941023.css",
+    "main.js": "/harjasae2001/Tic-Tac-Toe/static/js/main.7131e609.js",
+    "index.html": "/harjasae2001/Tic-Tac-Toe/index.html",
+    "main.22941023.css.map": "/harjasae2001/Tic-Tac-Toe/static/css/main.22941023.css.map",
+    "main.7131e609.js.map": "/harjasae2001/Tic-Tac-Toe/static/js/main.7131e609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22941023.css",
+    "static/js/main.7131e609.js"
+  ]
+}
